@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>m-club</title>
+    <desc>Created with Sketch.</desc>
+    <g id="m-club" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill="#E21235" points="3 5 3 19.4 6.09515 19.4 6.09515 8.34584 10.9519 16.0965 12.4844 16.0965 12.5162 16.0965 14.0488 16.0965 21 5.00276 17.3568 5.01288 12.5003 12.7482 7.64384 5.01288"></polygon>
+        <path d="M19.1999,19.4 C20.194,19.4 20.9999,18.5942 20.9999,17.6 C20.9999,16.6059 20.194,15.8 19.1999,15.8 C18.2058,15.8 17.3999,16.6059 17.3999,17.6 C17.3999,18.5942 18.2058,19.4 19.1999,19.4 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

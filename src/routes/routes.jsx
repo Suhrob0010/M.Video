@@ -1,0 +1,17 @@
+import { lazy } from "react";
+
+export const Layout = lazy(()=> import('../Layout/Layout.jsx'))
+export const Home = lazy(()=> import('../pages/Home/Home.jsx'))
+export const VseAksii = lazy(()=> import('../pages/VseAksii/VseAksii.jsx'))
+export const NoutBook = lazy(()=> import('../pages/NoutBook/Noutbook.jsx'))
+export const UspeyKupit = lazy(()=> import('../pages/UspeyKupit/UspeyKupit.jsx'))
+export const Holodilnik = lazy(()=> import('../pages/Holodilnik/Holodilnik.jsx'))
+export const Konditsioner = lazy(()=> import('../pages/Konditsioner/Konditsioner.jsx'))
+export const Televizior = lazy(()=> import('../pages/Televizior/Televizior.jsx'))
+export const Premium = lazy(()=> import('../pages/Premium/Premium.jsx'))
+export const Carrera = lazy(()=> import('../pages/StiralnieMashini/StiralnieMashini.jsx'))
+export const mMerch = lazy(()=> import('../pages/Merch/Merch.jsx'))
+export const StiralnieMashini = lazy(()=> import('../pages/StiralnieMashini/StiralnieMashini.jsx'))
+export const Status = lazy(()=> import('../pages/Status/status.jsx'))
+export const Busket = lazy(()=> import('../pages/Busket/Busket.jsx'))
+export const Izbranoe = lazy(()=> import('../pages/Izobranoe/Izobranoe.jsx'))
